@@ -1,0 +1,27 @@
+[
+ {
+   "Ice_Cream_Flavor": "strawberry",
+   "Like_It_Percentage": "43%",
+   "Favorite_Percentage": "6%"
+ },
+ {
+   "Ice_Cream_Flavor": "chocolate peanut butter",
+   "Like_It_Percentage": "26%",
+   "Favorite_Percentage": "5%"
+ },
+ {
+   "Ice_Cream_Flavor": "butter pecan",
+   "Like_It_Percentage": "35%",
+   "Favorite_Percentage": "8%"
+ },
+ {
+   "Ice_Cream_Flavor": "cookies and cream",
+   "Like_It_Percentage": "43%",
+   "Favorite_Percentage": "7%"
+ },
+ {
+   "Ice_Cream_Flavor": "mint chocolate chip",
+   "Like_It_Percentage": "33%",
+   "Favorite_Percentage": "9%"
+ }
+]
