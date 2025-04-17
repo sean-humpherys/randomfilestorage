@@ -11,7 +11,7 @@ Identifying liquid water is crucial in the search for habitable worlds beyond Ea
 
 "This discovery marks a significant milestone, highlighting what only Hubble can accomplish," said John Grunsfeld, associate administrator of NASA's Science Mission Directorate at NASA Headquarters, Washington. "In its 25 years in orbit, Hubble has made many scientific discoveries in our own solar system. A deep ocean under the icy crust of Ganymede opens up further exciting possibilities for life beyond Earth."
 
-
+https://raw.githubusercontent.com/sean-humpherys/randomfilestorage/refs/heads/main/ganymede.jpg
 
 Ganymede is the largest moon in our solar system and the only moon with its own magnetic field. The magnetic field causes aurorae, which are ribbons of glowing, hot electrified gas, in regions circling the north and south poles of the moon. Because Ganymede is close to Jupiter, it is also embedded in Jupiter's magnetic field. When Jupiter's magnetic field changes, the aurorae on Ganymede also change, "rocking" back and forth.
 
@@ -21,11 +21,11 @@ If a saltwater ocean were present, Jupiter's magnetic field would create a secon
 
 Scientists estimate the ocean is 60 miles (100 kilometers) thick - 10 times deeper than Earth's oceans - and is buried under a 95-mile (150-kilometer) crust of mostly ice.
 
-
+https://raw.githubusercontent.com/sean-humpherys/randomfilestorage/refs/heads/main/insideganymede.jpg
 
 The new observations were done in ultraviolet light and could only be accomplished with a space telescope high above the Earth's atmosphere, which blocks most ultraviolet light.
 
-https://solarsystem.nasa.gov/moons/jupiter-moons/ganymede/in-depth/ 
+https://www.space.com/28807-jupiter-moon-ganymede-salty-ocean.html
 Credits: Images and text from NASA and are in the public domain. 
 
 
